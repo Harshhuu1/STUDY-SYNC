@@ -1,0 +1,250 @@
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="header1">
+            <a href="www.google.com" class="ah">
+                <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/StudySyn.svg" alt="logo" class="imgg">
+                <span class="span">Studysync</span>
+            </a>
+        </div>
+        <nav class="nav">
+            <a href="#" class="xx">Home</a>
+            <a href="#" class="xx">Features</a>
+            <a href="#" class="xx">Pricing</a>
+            <a href="#" class="xx">Blog</a>
+            <a href="#" class="xx">About</a>
+           
+        </nav>
+        <a href="#" class="contact">Contact Us</a>
+        <button class="menu">
+            <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/Hamburger.svg" alt="" class="menuicon">
+        </button>
+        <button class="xx" id="mode">
+            <img src="https://img.freepik.com/free-vector/realistic-silver-frame-design_23-2149262984.jpg?size=626&ext=jpg&ga=GA1.1.196615398.1718124128&semt=ais_user" alt="" srcset="" class="iii"></button>
+    </div>
+    <div class="container">
+        <div class="leftcon">
+            <section class="main-section">very proud to introduce</section>
+            <h1 class="hh">Seamless learning for future</h1>
+            <p class="para">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat, saepe voluptatum a asperiores laboriosam porro ad iusto eveniet dolores hic mollitia, fugit commodi repudiandae consequatur quia ipsa, fuga tempore quam sit ducimus optio iste aliquid? Suscipit fugit repudiandae aliquam. Odit commodi porro repudiandae excepturi necessitatibus a rerum perspiciatis officiis deleniti!</p>
+            <div class="button">
+                <a href="http://127.0.0.1:3000/Projects%20includes%20js/studysync/calculator/index.html" class="start">Start Now</a>
+                <a href="#" class="tour">Take tour</a>
+            </div>
+        </div>
+        <div class="right">
+            <img src="https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg?auto=compress&cs=tinysrgb&w=600" alt="image" class="imagew">
+        </div>
+    </div>
+    <div class="logo">
+        <h2>Trusted by the best</h2>
+        <div class="companygrid">
+            <div class="company">
+                <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/Google.svg" alt=""  class="logo">
+                <span class="ab">Google</span>
+            </div>
+            <div class="company">
+                <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/Microsoft.svg" alt=""  class="logo">
+                <span class="ab">Microsoft</span>
+            </div>
+            <div class="company">
+                <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/linkedin.svg" alt=""  class="logo">
+                <span class="ab">Linkdlen</span>
+            </div>
+            <div class="company">
+                <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/twitter.svg" alt=""  class="logo">
+                <span class="ab">Twittor</span>
+            </div>
+        </div>
+    </div>
+    <div class="feature">
+
+        <div class="content">
+            <div class="featurelo">
+                <h2 class="head">Our competitive Advantage</h2>
+                <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi doloremque, minus suscipit voluptas minima qui!</p>
+            </div>
+            <div class="featuregrid">
+            <!-- card1 -->
+            <div class="card">
+                <div class="icon">
+                    <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/PersonalizedLearn.svg" alt="" class="imggg">
+                </div>
+                <div class="info">
+                    <div class="title">Personalized learning</div>
+                    <div class="desc">offer tailored learning personalized through A.I Lorem ipsum dolor sit amet.</div>
+                </div>
+            </div>
+            
+            <!-- card2 -->
+            <div class="card">
+                <div class="icon">
+                    <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/Affordability.svg" alt="" class="imggg">
+                </div>
+                <div class="info">
+                    <div class="title">Affordability</div>
+                    <div class="desc">offer tailored learning personalized through A.I Lorem ipsum dolor sit amet.</div>
+                </div>
+            </div>
+            <!-- card3 -->
+            <div class="card">
+                <div class="icon">
+                    <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/IndustryPatner.svg" alt="" class="imggg">
+                </div>
+                <div class="info">
+                    <div class="title">Industry Partenerships</div>
+                    <div class="desc">offer tailored learning personalized through A.I Lorem ipsum dolor sit amet.</div>
+                </div>
+            </div>
+            <!-- card4 -->
+            <div class="card">
+                <div class="icon">
+
+
+                    <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/InnovativeTech.svg" alt="" class="imggg">
+                </div>
+                <div class="info">
+                    <div class="title">Inovative technology</div>
+                    <div class="desc">offer tailored learning personalized through A.I Lorem ipsum dolor sit amet.</div>
+                </div>
+            </div>
+            <!-- card5 -->
+            <div class="card">
+                <div class="icon">
+                    <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/PersonalizedLearn.svg" alt="" class="imggg">
+                </div>
+                <div class="info">
+                    <div class="title">Resposive support</div>
+                    <div class="desc">offer tailored learning personalized through A.I Lorem ipsum dolor sit amet.</div>
+                </div>
+            </div>
+            <!-- card6 -->
+            <div class="card">
+                <div class="icon">
+                    <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/Analytics.svg" alt="" class="imggg">
+                </div>
+                <div class="info">
+                    <div class="title">Analytics and insight</div>
+                    <div class="desc">offer tailored learning personalized through A.I Lorem ipsum dolor sit amet.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="test">
+    <h2 class="heading">
+        What others say about us
+    </h2>
+    <div class="carddd">
+        <div class="card1">
+           <div> <p class="card1p">"They offers a very good environment , and i am very fortunate that i can do so. And its my best experience i come across."</p></div>
+           <div> <img src="https://github.com/loveBabbar/CodehelpYTWebDev/blob/main/lecture33/images/avatar1.png?raw=true" alt="" class="card1img"></div>
+           
+           <div class="name"><p>Sarah johnson</p></div> 
+           <div class="work"><p>8th grade English teacher</p></div>
+        </div>
+        <div class="card1">
+            <div> <p class="card1p">"They offers a very good environment , and i am very fortunate that i can do so. And its my best experience i come across."</p></div>
+            <div> <img src="https://imgs.search.brave.com/CtMikf3R51mCUszjXTYazOInYM0MWuncAUzGo5D_Mtw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/Lzg2L0phbWVzQ2Ft/ZXJvbkNDSnVseTA5/LmpwZw" alt="" class="card1img"></div>
+            
+            <div class="name"><p>Harsh Yadav</p></div> 
+            <div class="work"><p>A perfect developer</p></div>
+         </div>
+         <div class="card1">
+            <div> <p class="card1p">"They offers a very good environment , and i am very fortunate that i can do so. And its my best experience i come across."</p></div>
+            <div> <img src="https://github.com/loveBabbar/CodehelpYTWebDev/blob/main/lecture33/images/avatar3.png?raw=true" alt="" class="card1img"></div>
+            
+            <div class="name"><p>John</p></div> 
+            <div class="work"><p>A musician</p></div>
+         </div>
+    </div>
+
+    <div class="news">
+        <div class="connt">
+        <div class="leftc">
+            <img src="https://images.pexels.com/photos/6068771/pexels-photo-6068771.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load" alt="" class="imgen">
+        </div>
+        <div class="rightc">
+            <div class="headd">Get the latest updates</div>
+           <div> <p class="parr">sign up for our newsletter</p></div>
+           <form  class="form">
+            <input type="text"  placeholder="Email">
+            <button>Send</button>
+           </form >
+           <div class="plo">
+            By signing to our newletter you agree to our <a href="y" class="xxx">term</a> and <a href="y" class="xxx">Privacy Policy.</a>
+            
+            
+            
+           </div>
+        </div>
+        </div>
+    </div>
+</div>
+<div class="gap">
+<div class="footer">
+    <div class="first">
+        <div class="fr">
+        <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/StudySyn.svg" alt="" class="firstlogo">
+      <div class="pa">Studysync</div></div>
+      
+        <div class="p">seamless learning for brighter future</div>
+        <div class="fim">
+            <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/twitter.svg" alt="" class="fimgg">
+            <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/instagram.svg" alt="" class="fimgg">
+            <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/linkedin.svg" class="fimgg" alt="">
+        <img src="https://raw.githubusercontent.com/loveBabbar/CodehelpYTWebDev/a2e9c3ba2f06448e44ba1ca41354c0a7a23ab91c/lecture33/images/github.svg" alt="" class="fimgg">
+        </div></div>
+    
+    <div class="xp">
+    <div class="second">
+        <div class="product">Products</div>
+        <div class="ov">overview</div>
+        <div class="ov">solution</div>
+        <div class="ov">pricing</div>
+        <div class="ov">costumer</div>
+    </div>
+    <div class="third">
+        <div class="product">Company</div>
+        <div class="ov">About</div>
+        <div class="ov">Investor relation</div>
+        <div class="ov">Jobs</div>
+        <div class="ov">Blog</div>
+    </div>
+    <div class="fourth">
+        <div class="product">Support</div>
+        <div class="ov">Contact</div>
+        <div class="ov">Documentation</div>
+        <div class="ov">FAQ</div>
+    </div>
+    <div class="fifth">
+        <div class="product">Legal</div>
+        
+        <div class="ov">Terms of service</div>
+        <div class="ov">Policy</div>
+        <div class="ov">Cookies</div>
+    </div>
+    </div>
+</div>
+</div>
+
+    <footer class="footer1">
+        <div class="footer2">
+            <p class="ppp">&copy;-2021 Present studySync. All rights reserved. Developed by <i class="harsh"> Harsh Yadav</i> </p>
+        </div>
+
+
+    </footer>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
