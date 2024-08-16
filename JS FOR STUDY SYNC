@@ -1,0 +1,38 @@
+JS
+let modebtn=document.querySelector("#mode");
+let curr="light";
+modebtn.addEventListener("click", ()=>{
+    if(curr==="light"){
+        curr="dark";
+        document.querySelector("body").style.backgroundColor="black";
+        document.querySelector(".span").style.color="white";
+        document.querySelector(".hh").style.color="white";
+        document.querySelector("h2").style.color="white";
+        document.querySelector(".para").style.color="white";
+        document.querySelector(".heading").style.color="white";
+        document.querySelector(".pa").style.color="white";
+        document.querySelector(".product").style.color="white";
+        document.querySelector(".fifth").style.color="white";
+        document.querySelector(".head").style.color="white";
+        document.querySelector(".imagew").style.boxShadow="white";
+        document.querySelector(".harsh").style.color="white"; document.querySelector(".third").style.color="white";   document.querySelector(".fourth").style.color="white";
+    }
+    else{
+    curr="light";
+    document.querySelector("body").style.backgroundColor="white";
+    document.querySelector(".span").style.color="black";
+    document.querySelector(".hh").style.color="rgb(30, 27, 27)";
+    document.querySelector("h2").style.color="black";
+    document.querySelector(".para").style.color="black";
+    document.querySelector(".heading").style.color="black";
+    document.querySelector(".pa").style.color="black";
+    document.querySelector(".product").style.color="black";
+    document.querySelector(".imagew").style.boxShadow="black";
+    document.querySelector("third").style.color="black";
+    document.querySelector(".fourth").style.color="black";
+    document.querySelector(".fifth").style.color="black";
+    document.querySelector(".head").style.color="black"; document.querySelector(".harsh").style.color="black";
+    
+    
+    }
+})
